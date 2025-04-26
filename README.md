@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hello, I'm Bilol!
 
-<!--
-**Bilol03/Bilol03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 About Me
+👨‍💻 Started my IT journey in 2022
 
-Here are some ideas to get you started:
+🎓 Studied AI and Big Data at Woosong University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about backend development and TypeScript
+
+🛠 Currently working with Node.js, NestJS, PostgreSQL, and Prisma
+
+📚 What I'm Currently Learning
+Advanced TypeScript Concepts
+
+NestJS Framework & Best Practices
+
+Microservices Architecture
+
+Clean Code Principles
+
+🏗 My Projects
+🔥 Multi-tenant Chatbot System — with full Role-Based Access Control (RBAC)
+
+🛒 E-commerce API — built with NestJS + PostgreSQL + TypeORM
+
+🎨 TypeScript Decorators Collection — practicing custom decorators
+
+🧠 My Belief
+"If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
+
+📫 Let's Connect
+LinkedIn Profile
+
+Telegram
+
+📧 Email: your.email@example.com
+
+🚀 Tech Stack
+
+📈 GitHub Stats
+
+👉 Every small step today is a big achievement tomorrow!
+
