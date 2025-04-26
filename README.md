@@ -1,4 +1,4 @@
-👋 Hello, I'm Bilol!
+**👋 Hello, I'm Bilol!******
 
 🎯 About Me
 👨‍💻 Started my IT journey in 2022
