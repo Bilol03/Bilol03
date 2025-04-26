@@ -1,6 +1,6 @@
-#👋 Hello, I'm Bilol!#
+#👋 Hello, I'm Bilol!
 
-##🎯 About Me##
+##🎯 About Me
 👨‍💻 Started my IT journey in 2022
 
 🎓 Studied AI and Big Data at Woosong University
@@ -9,7 +9,7 @@
 
 🛠 Currently working with Node.js, NestJS, PostgreSQL, and Prisma
 
-##📚 What I'm Currently Learning##
+##📚 What I'm Currently Learning
 Advanced TypeScript Concepts
 
 NestJS Framework & Best Practices
@@ -18,14 +18,14 @@ Microservices Architecture
 
 Clean Code Principles
 
-##🏗 My Projects##
+##🏗 My Projects
 🔥 Multi-tenant Chatbot System — with full Role-Based Access Control (RBAC)
 
 🛒 E-commerce API — built with NestJS + PostgreSQL + TypeORM
 
 🎨 TypeScript Decorators Collection — practicing custom decorators
 
-##🧠 My Belief##
+##🧠 My Belief
 "If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
 
 📫 Let's Connect
@@ -36,6 +36,5 @@ Clean Code Principles
 📧 Email: madiyarovbilol78@gmail.com
 
 
-###
-👉 Every small step today is a big achievement tomorrow!###
+###👉 Every small step today is a big achievement tomorrow!
 
