@@ -26,7 +26,7 @@ Clean Code Principles
 🎨 TypeScript Decorators Collection — practicing custom decorators
 
 ## 🧠 My Belief
-"If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
+### "If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
 
 📫 Let's Connect
 [LinkedIn Profile]((https://www.linkedin.com/in/bilol-madiyarov-282013213/))
@@ -36,5 +36,5 @@ Clean Code Principles
 📧 Email: madiyarovbilol78@gmail.com
 
 
-###👉 Every small step today is a big achievement tomorrow!
+### 👉 Every small step today is a big achievement tomorrow!
 
