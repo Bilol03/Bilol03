@@ -28,8 +28,9 @@ Clean Code Principles
 ## 🧠 My Belief
 ### "If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
 
-📫 Let's Connect
-[LinkedIn Profile]((https://www.linkedin.com/in/bilol-madiyarov-282013213/))
+## 📫 Let's Connect
+
+[LinkedIn Profile](https://www.linkedin.com/in/bilol-madiyarov-282013213/)
 
 [Telegram](https://t.me/Bilol_03_08)
 
