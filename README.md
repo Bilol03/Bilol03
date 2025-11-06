@@ -3,20 +3,11 @@
 ## 🎯 About Me
 👨‍💻 Started my IT journey in 2022
 
-🎓 Studied AI and Big Data at Woosong University
+🎓 Studied AI and Big Data at Woosong University for 3 semesters
 
 🚀 Passionate about backend development and TypeScript
 
 🛠 Currently working with Node.js, NestJS, PostgreSQL, and Prisma
-
-## 📚 What I'm Currently Learning
-Advanced TypeScript Concepts
-
-NestJS Framework & Best Practices
-
-Microservices Architecture
-
-Clean Code Principles
 
 ## 🏗 My Projects
 🔥 Multi-tenant Chatbot System — with full Role-Based Access Control (RBAC)
