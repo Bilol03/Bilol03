@@ -12,9 +12,9 @@
 ## 🏗 My Projects
 🔥 Multi-tenant Chatbot System — with full Role-Based Access Control (RBAC)
 
-🛒 E-commerce API — built with NestJS + PostgreSQL + TypeORM
+🔥 Working on LMS system as a Backend Developer
 
-🎨 TypeScript Decorators Collection — practicing custom decorators
+🔥 Building Testing System and Telegram Bot for English Learning Centre BilimZiyo
 
 ## 🧠 My Belief
 ### "If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
