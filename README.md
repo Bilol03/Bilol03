@@ -68,7 +68,7 @@ Automated testing system integrated with a Telegram bot for "BilimZiyo" learning
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bilol-madiyarov-282013213  
+- 💼 LinkedIn: www.linkedin.com/in/bilol-madiyarov  
 - 📩 Telegram: https://t.me/Bilol_03_08  
 - 📧 Email: madiyarovbilol78@gmail.com  
 
