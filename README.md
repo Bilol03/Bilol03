@@ -1,32 +1,77 @@
-  # 👋 Hello, I'm Bilol!
+# 👋 Hi, I'm Bilol Madiyarov
 
-## 🎯 About Me
-👨‍💻 Started my IT journey in 2022
+Backend Engineer | TypeScript Enthusiast | System Design Learner
 
-🎓 Studied AI and Big Data at Woosong University for 3 semesters
+---
 
-🚀 Passionate about backend development and TypeScript
+## 🚀 About Me
 
-🛠 Currently working with Node.js, NestJS, PostgreSQL, and Prisma
+I started my IT journey in 2022 and have been consistently building real-world backend systems since then.
 
-## 🏗 My Projects
-🔥 Multi-tenant Chatbot System — with full Role-Based Access Control (RBAC)
+🎓 Studied **Artificial Intelligence & Big Data** at Woosong University (3 semesters)  
+💻 Focused on scalable backend architecture and clean code principles  
+🧠 Strong interest in system design, performance optimization, and multi-tenant systems  
 
-🔥 Working on LMS system as a Backend Developer
+I enjoy turning complex business logic into structured, maintainable, and production-ready systems.
 
-🔥 Building Testing System and Telegram Bot for English Learning Centre BilimZiyo
+---
 
-## 🧠 My Belief
-### "If a person works with true dedication, with the will of Allah, becoming a professional in any field is absolutely possible."
+## 🛠 Tech Stack
 
-## 📫 Let's Connect
+**Backend**
+- Node.js
+- NestJS
+- TypeScript
+- Prisma ORM
+- REST API / RBAC Architecture
 
-[LinkedIn Profile](https://www.linkedin.com/in/bilol-madiyarov-282013213/)
+**Database**
+- PostgreSQL
+- Query Optimization
+- Relational Data Modeling
 
-[Telegram](https://t.me/Bilol_03_08)
+**Other**
+- Redis
+- JWT Authentication
+- Multi-tenant Architecture
+- Telegram Bot Development (grammY)
 
-📧 Email: madiyarovbilol78@gmail.com
+---
 
+## 🏗 Selected Projects
 
-### 👉 Every small step today is a big achievement tomorrow!
+### 🔹 Multi-Tenant Chatbot System
+A scalable chatbot platform with full Role-Based Access Control (Admin / Owner / Operator), organization-based isolation, and clean modular architecture.
 
+### 🔹 Learning Management System (LMS)
+Backend architecture with user roles, course management, enrollment logic, and secure authentication.
+
+### 🔹 English Learning Testing System & Telegram Bot
+Automated testing system integrated with a Telegram bot for "BilimZiyo" learning center.
+
+---
+
+## 📚 What I’m Currently Improving
+
+- Advanced system design
+- Performance optimization
+- Scalable backend patterns
+- Clean architecture principles
+
+---
+
+## 🧠 Philosophy
+
+> “With unwavering dedication and by the will of Allah, mastery in any field is not merely possible — it is inevitable.”
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bilol-madiyarov-282013213  
+- 📩 Telegram: https://t.me/Bilol_03_08  
+- 📧 Email: madiyarovbilol78@gmail.com  
+
+---
+
+### ⚡ Every small step today becomes a major result tomorrow.
